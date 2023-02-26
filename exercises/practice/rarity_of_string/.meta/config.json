@@ -1,0 +1,19 @@
+{
+  "authors": [
+    "ennowulff"
+  ],
+  "files": {
+    "solution": [
+      "zcl_rarity_of_string.clas.abap"
+    ],
+    "test": [
+      "zcl_rarity_of_string.clas.testclasses.abap"
+    ],
+    "example": [
+      ".meta/zcl_rarity_of_string.clas.abap"
+    ]
+  },
+  "blurb": "Calculate the rarity of a string",
+  "source": "codegolf.stackexchange.com",
+  "source_url": "https://codegolf.stackexchange.com/questions/254821/rarity-of-a-string"
+}
